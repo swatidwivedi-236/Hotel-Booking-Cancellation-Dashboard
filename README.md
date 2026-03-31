@@ -1,5 +1,8 @@
 # 🏨 Hotel Booking Cancellations — Excel Dashboard
 Excel dashboard for hotel booking cancellations analysis
+## 📸 Dashboard Preview
+
+![Dashboard](dashboard.png)
 
 ## 📌 Project Overview
 This project analyzes hotel booking cancellations using a real-world dataset of **1,19,390 bookings** across City Hotel and Resort Hotel from 2015 to 2017.
